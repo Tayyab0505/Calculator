@@ -10,7 +10,7 @@ function App() {
 
   const clearScreen = () => {
     setvalue('');
-  };
+  }
 
   const calculate = () => {
     try {
